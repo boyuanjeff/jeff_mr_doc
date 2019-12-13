@@ -91,31 +91,10 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-## 使用说明
-
-详见MrDoc使用文档:http://mrdoc.zmister.com
-
-## 二次开发说明
-
-详见MrDoc使用文档:http://mrdoc.zmister.com
-
-## 问题提交和反馈
-
-### 1、提交issue
-
-直接在https://gitee.com/zmister/MrDoc/issues 页面提交问题。
-
-### 2、加入MrDoc交流群
-
-加入MrDoc交流QQ群，群号为735507293，入群密码：mrdoc
 
 ## 版本更新日志
 
 版本更新日志详见：[CHANGES.md](./CHANGES.md)
-
-## 版本更新
-
-关注州的先生微信公众号（ID：zmister2016）、博客 https://zmister.com，及时获取MrDoc版本更新信息。
 
 ## 更多截图
 
